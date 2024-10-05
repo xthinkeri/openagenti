@@ -1,4 +1,4 @@
-# openaii
+# openaii / open AI Agent Interface
 
 With the enhancement of LLM AI performance, almost all computing environments are undergoing a transformation. In particular, conversational AI has begun to serve as the interface for various services. Although the capability of AI is improving to the point where standard specifications are no longer necessary, it is still important to build an environment where collaboration between AIs can be faster, more accurate, and trustworthy. Just as existing APIs (Application Programming Interfaces) enable the integration of various applications, defining and using an AI Interface is expected to play a key role in environments where massive AI agents provide services.
 
